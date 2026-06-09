@@ -1,5 +1,5 @@
 """
-data_structures.py
+Data_structures.py
 ===================
 Estruturas de dados fundamentais do sistema AETHER 2.0 — Monitoramento de
 Riscos Ambientais (Global Solution 2026 — Dynamic Programming).
