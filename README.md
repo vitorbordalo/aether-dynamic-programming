@@ -14,7 +14,6 @@
 | [Vitor Bordalo Correa Guimaraes] | RM 561592 |
 | Lucas Flekner Branquinho | RM 562262 |
 
-> ⚠️ **Antes de entregar:** substituir os nomes e RMs acima pelos dados reais.
 
 ---
 
